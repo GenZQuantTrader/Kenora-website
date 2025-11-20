@@ -1,5 +1,4 @@
-# Kenora-website
-<!DOCTYPE html>
+# Kenora Advisory
 <html lang="en">
 <head>
     <meta charset="UTF-8">
